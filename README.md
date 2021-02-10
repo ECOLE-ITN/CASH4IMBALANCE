@@ -1,6 +1,6 @@
 ## Introduction
 This folder contains all necessary scripts, figures, data for
-the paper Automated CASH for class imbalance problems. 
+the paper Comparison of Automated CASH Optimization Approaches for Class Imbalance Problems. 
 
 ## Requiremnts
 For this project to run you need:
