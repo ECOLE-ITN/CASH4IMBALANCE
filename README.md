@@ -11,9 +11,7 @@ For this project to run you need:
 
 ## Cite
 
-Paper: Improved Automated CASH Optimization with Tree Parzen Estimators for Class Imbalance Problems.
-Authors: Duc Anh Nguyen, Jiawen Kong, Hao Wang, Stefan Menzel, Bernhard Sendhoff, Anna V. Kononova and Thomas Bäck.
-Conference: The 8th IEEE International Conference on Data Science and Advanced Analytics (DSAA2021).
+Duc Anh Nguyen, Jiawen Kong, Hao Wang, Stefan Menzel, Bernhard Sendhoff, Anna V. Kononova and Thomas Bäck. Improved Automated CASH Optimization with Tree Parzen Estimators for Class Imbalance Problems. The 8th IEEE International Conference on Data Science and Advanced Analytics (DSAA2021).
 
 ## Contact us
 
