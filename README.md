@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/328248246.svg)](https://zenodo.org/badge/latestdoi/328248246)
+
+
 ## Introduction
 This folder contains all necessary scripts, figures, data for
 the paper Improved Automated CASH Optimization with Tree Parzen Estimators for Class Imbalance Problems. 
